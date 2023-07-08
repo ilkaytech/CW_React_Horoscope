@@ -39,7 +39,7 @@ SOLUTION
 
 <a href="https://ilkaytech.github.io/cw_react_horoscope/">🔗 Horoskop</a>
 
-![horoskop](./horoskop.gif)
+![horoskop](./src/helpers/horoskop.gif)
 
 ## Objective
 

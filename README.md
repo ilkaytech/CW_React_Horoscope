@@ -36,7 +36,9 @@ SOLUTION
 ```
 
 ## Outcome
+
 <a href="https://ilkaytech.github.io/cw_react_horoscope/">🔗 Horoskop</a>
+
 ![horoskop](./horoskop.gif)
 
 ## Objective

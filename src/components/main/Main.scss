@@ -11,7 +11,7 @@
     height: 350px;
     overflow: hidden;
     &:hover .card-over {
-      transform: translate(0);
+      transform: translateY(0%);
     }
     &:hover img {
       opacity: 1;
@@ -21,7 +21,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgb(21, 21, 21);
+    background-color: rgba(0, 0, 0, 0.8);
     color: $cardNavBgColor;
     padding: 1rem;
     border-radius: 10px 20px 20px 20px;
@@ -29,11 +29,10 @@
   }
   .date {
     position: absolute;
-
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: rgb(21, 21, 21);
+    background-color: rgba(0, 0, 0, 0.8);
     color: $cardNavBgColor;
     padding: 1rem;
     font-size: 0.5rem;
@@ -52,7 +51,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    background-color: rgb(21, 21, 21);
+    background-color: rgba(0, 0, 0, 0.8);
     font-size: 1.5rem;
     z-index: 3;
     padding: 1rem;

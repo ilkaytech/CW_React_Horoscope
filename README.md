@@ -41,7 +41,7 @@ https://ilkaytech.github.io/cw_react_horoscope/
 
 ## Objective
 
-Build a Horoscope App using ReactJS.
+Creating a Horoscope Application using ReactJS
 
 ### At the end of the project, following topics are to be covered;
 

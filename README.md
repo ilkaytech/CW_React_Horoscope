@@ -39,7 +39,7 @@ SOLUTION
 
 <a href="https://ilkaytech.github.io/cw_react_horoscope/">🔗 Horoskop</a>
 
-![horoskop](./src/helpers/horoskop.gif)
+![Horoscope App](./src/helpers/horoskop.gif)
 
 ## Objective
 
@@ -57,6 +57,6 @@ Creating a Horoscope Application using ReactJS
 
 ### The purpose of the project;
 
-- improve coding skills within HTML & CSS-SCSS & JS & ReactJS.
+- HTML & CSS-Developing coding skills in SCSS & JS & ReactJS
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.

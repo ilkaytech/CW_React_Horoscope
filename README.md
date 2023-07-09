@@ -16,15 +16,15 @@ SOLUTION
 ├── src
 │    ├── components
 │    │       ├── main
-│    │       │     ├── Main.js
-│    │       │     ├── Card.js
+│    │       │     ├── Main.jsx
+│    │       │     ├── Card.jsx
 │    │       │     └── Main.scss
 │    │       ├── header
 │    │       │     ├── Header.scss
-│    │       │     └── Header.js
+│    │       │     └── Header.jsx
 │    │       └── navbar
 │    │             ├── Navbar.scss
-│    │             └── Navbar.js
+│    │             └── Navbar.jsx
 │    ├── helper
 │    │       └── data.js
 │    ├── App.js

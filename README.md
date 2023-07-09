@@ -9,7 +9,7 @@ Project aims to create a horoscope app.
 ```
 001-Horoscope App(folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         # Definition of the project
 SOLUTION
 ├── public
 │     └── index.html

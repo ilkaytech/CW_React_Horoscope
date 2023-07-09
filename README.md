@@ -7,7 +7,7 @@ Project aims to create a horoscope app.
 ## Project Skeleton
 
 ```
-001-Horoscope App(folder)
+Horoscope App(folder)
 |
 |----readme.md         # Definition of the project
 SOLUTION

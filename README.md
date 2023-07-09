@@ -37,7 +37,7 @@ SOLUTION
 
 ## Outcome
 
-<a href="https://ilkaytech.github.io/cw_react_horoscope/">🔗 Horoskop</a>
+<a href="https://ilkaytech.github.io/cw_react_horoscope/">🔗 Horoscope App</a>
 
 ![Horoscope App](./src/helpers/horoskop.gif)
 
@@ -49,7 +49,9 @@ Creating a Horoscope Application using ReactJS
 
 - HTML
 
-- CSS-SCSS
+- CSS
+
+- SCSS
 
 - JS
 
